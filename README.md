@@ -10,4 +10,4 @@
 
 Город:          Екатеринбург
 
-![Екатеринбург]: (https://spblp.ru/wp-content/uploads/2019/10/Panorama-1200x780.jpg)
+![Екатеринбург](https://spblp.ru/wp-content/uploads/2019/10/Panorama-1200x780.jpg)
